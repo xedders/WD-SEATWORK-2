@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  The website I wish to create is a resume containing basic information about myself, my educational attainment, works and work experience.
 </div>
 
 <br />
